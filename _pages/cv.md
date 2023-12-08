@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2022
-* M.S. in Jekyll, GitHub University, 2023
-* Ph.D in Version Control Theory, GitHub University, 2024 (expected)
+* High school: Nanchang NO.5 High School, 2019-2022
+* Undergraduate: Shanghaitech University, 2022-
   
 Skills
 ======
