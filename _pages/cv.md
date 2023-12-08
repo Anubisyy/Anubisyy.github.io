@@ -37,7 +37,6 @@ Honors and Awards
 
   
 Working Experience
-
 ======
 * Sept, 2022: Joined the [Chenyin Choir](https://space.bilibili.com/670045446) and became a member of the tenor section, serving in various school performances.
 * Sept, 2022: Served as the Leader of the No.20 Epidemic Prevention Team of Dadao College.
