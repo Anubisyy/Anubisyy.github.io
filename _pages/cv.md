@@ -26,7 +26,7 @@ Skills
 Honors and Awards
 ======
 * Competitions
-  * Robomaster2023(RMUC2023)
+  * Robomaster2023([RMUC2023](https://www.robomaster.com/zh-CN/robo/rm))
     * Our team won the first prize in the 3V3 infantry robots competition.
     * Our team won the second prize in the RMUC2023 Southern Regional Competition.
     * Our team won the third prize in the RMUC2023 National Competition.
