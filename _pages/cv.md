@@ -40,7 +40,7 @@ Working Experience
 * Sept, 2022: Joined the [Chenyin Choir](https://space.bilibili.com/670045446) and became a member of the tenor section, serving in various school performances.
 * Sept, 2022: Served as the Leader of the No.20 Epidemic Prevention Team of Dadao College.
 * Sept, 2022: Served as the Youth League Secretary of the Third Youth League Branch of the 2022 undergraduate students of SIST, ShanghaiTech University Dadao College.
-* Jan, 2023: Served as a volunteer in the "Alma Mater Tour-Shanghai University of Science and Technology Enrollment Mobilization Activity", went to Nanchang No. 5 Middle School to give a lecture, and obtained a volunteer certificate
+* Jan, 2023: Served as a volunteer in the School Admissions Presentation, went to Nanchang No.5 Middle School to give a lecture, and obtained a volunteer certificate.
 * Participate in RMUC2023 regional competition and national competition.
   * complete programming and circuit construction of the dart arms.
   * Learned about the four-wheel drive principle of the Mecanum wheel.
@@ -51,7 +51,7 @@ Working Experience
   * Participated in the picture design of the project paper and part of writing.
   * Participate in building a complete human-object interaction capture data set.
 * Sept, 2023: Served as a teaching assistant for the python programming part of the SI100B course in the fall of 2023
-* Nov, 2023: Participated in the Fourth Student Congress of ShanghaiTech University as a college representative.
+* Dec, 2023: Participated in the Fourth Student Congress of ShanghaiTech University as a college representative.
 
 Publications
 ======
