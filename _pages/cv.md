@@ -24,7 +24,6 @@ Skills
 * Basic skills in circuits and robot control(motor control)
 
 Ranking of the comprehensive evaluation
-
 ======
 - 2022-2023 academic year: Ranking 3%-7%
 
