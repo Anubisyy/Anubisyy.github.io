@@ -23,6 +23,11 @@ Skills
   * Echarts graphic
 * Basic skills in circuits and robot control(motor control)
 
+Ranking of the comprehensive evaluation
+
+======
+- 2022-2023 academic year: Ranking 3%-7%
+
 Honors and Awards
 ======
 * Competitions
@@ -31,6 +36,8 @@ Honors and Awards
     * Our team won the second prize in the RMUC2023 Southern Regional Competition.
     * Our team won the third prize in the RMUC2023 National Competition.
     * Our team won the third prize of the RMUC2023 Robot Practical Award in the Hero Robot Individual Competition.
+
+* Outstanding Student
 * Outstanding Student Cadre 2022-2023
 * Outstanding Youth League Branch in 2023
 
