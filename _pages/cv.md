@@ -52,8 +52,5 @@ Working Experience
   * Learned about the movements of the multi-dimensional pan/tilt controlled by the motor.
 
 * Participated in a project about human-object interactions(HOI) in [ShanghaiTech Visual and Data Intelligence Center](https://vic.shanghaitech.edu.cn/), June, 2023.
-  * Operation and result evaluation of [CHORE(ECCV'22)](https://virtualhumans.mpi-inf.mpg.de/chore) on new data sets.
-  * Participated in the picture design of the project paper and part of writing.
-  * Participate in building a complete human-object interaction capture data set.
 * Sept, 2023: Served as a teaching assistant for the python programming part of the [SI100B](https://i-techx.github.io/iTechX/courses?course_code=SI100B) course in the fall of 2023
 * Dec, 2023: Participated in the Fourth Student Congress of ShanghaiTech University as a college representative.
