@@ -39,11 +39,6 @@ Honors and Awards
 * Outstanding Student 2022-2023
 * Outstanding Student Cadre 2022-2023
 * Outstanding Youth League Branch in 2022-2023
-
-Projects
-======
-- [I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions](https://afterjourney00.github.io/IM-HOI.github.io)     
-  The paper has been accepted by [arXiv:2312.08869](https://arxiv.org/abs/2312.08869)
   
 Working Experience
 ======
