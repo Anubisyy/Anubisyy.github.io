@@ -62,7 +62,3 @@ Working Experience
   * Participate in building a complete human-object interaction capture data set.
 * Sept, 2023: Served as a teaching assistant for the python programming part of the [SI100B](https://i-techx.github.io/iTechX/courses?course_code=SI100B) course in the fall of 2023
 * Dec, 2023: Participated in the Fourth Student Congress of ShanghaiTech University as a college representative.
-
-Publications
-======
-Currently no publications but waiting for good news about one finished paper during CVPR2024.
