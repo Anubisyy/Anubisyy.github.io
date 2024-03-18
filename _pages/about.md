@@ -12,7 +12,6 @@ I am currently an Undergraduate Student of [SIST](https://sist.shanghaitech.edu.
 
 ## Education
 - Bachelor of Enginering in Computer Science at ShanghaiTech University, 2022 -- Now
-- High school: Nanchang NO.5 High School, 2019 -- 2022
   
 ## Interests
 - Computer Vision
