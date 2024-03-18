@@ -16,8 +16,8 @@ Education
 
 Publications
 ======
-I’M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions.
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
+I’M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions.\\
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*\\
 Authors: Chengfeng Zhao, Juze Zhang, Jiashen Du, Ziwei Shan, Junye Wang, Jingyi Yu, Jingya Wang, Lan Xu.
 
 Comprehensive Ranking
