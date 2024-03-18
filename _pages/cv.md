@@ -45,7 +45,7 @@ Honors and Awards
 
 Teaching Assistant
 ======
-Course ID: [SI100B](https://i-techx.github.io/iTechX/courses?course_code=SI100B) (Introduction to Information Science and Technology)
+Course ID: [SI100B](https://i-techx.github.io/iTechX/courses?course_code=SI100B) (Introduction to Information Science and Technology)\\
 Role: Programming Assignments design for CS part and academic integrity checks.
   
 Working Experience
