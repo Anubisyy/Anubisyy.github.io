@@ -11,34 +11,42 @@ redirect_from:
 
 Education
 ======
-* High school: Nanchang NO.5 High School, 2019-2022
 * Undergraduate: [Shanghaitech University](https://www.shanghaitech.edu.cn/), 2022-2026
+
+
+Publications
+======
+I’M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions.
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
+Authors: Chengfeng Zhao, Juze Zhang, Jiashen Du, Ziwei Shan, Junye Wang, Jingyi Yu, Jingya Wang, Lan Xu.
+
+Comprehensive Ranking
+======
+- 2022-2023 academic year: Ranking 3%-7% in SIST College
   
 Skills
 ======
-* C, CPP and Python programing
-* A little bit of Linux server usage
-* Cartographic skills
-  * Adobe Illustrator
-  * Echarts graphic
-* Basic skills in circuits and robot control(motor control)
-
-Ranking of the comprehensive evaluation
-======
-- 2022-2023 academic year: Ranking 3%-7% in SIST College
+* Programming Languages: Python > C == CPP > JavaScript
+* Platform: Linux and Windows
+* Languages: English - Fluent, Mandarin - Native speaker
 
 Honors and Awards
 ======
 * Competitions
   * Robomaster2023([RMUC2023](https://www.robomaster.com/zh-CN/robo/rm))
-    * Our team won the first prize in the 3V3 infantry robots competition.
-    * Our team won the second prize in the RMUC2023 Southern Regional Competition.
-    * Our team won the third prize in the RMUC2023 National Competition.
-    * Our team won the third prize of the RMUC2023 Robot Practical Award in the Hero Robot Individual Competition.
-
+    * First prize in the Infantry Robots Competition.
+    * Second prize in the RMUC2023 Southern Regional Competition.
+    * Third prize in the RMUC2023 National Competition.
+    * Third prize of the RMUC2023 Practical Award in the Hero Robot Individual Competition.
+      
 * Outstanding Student 2022-2023
 * Outstanding Student Cadre 2022-2023
 * Outstanding Youth League Branch in 2022-2023
+
+Teaching Assistant
+======
+Course ID: [SI100B](https://i-techx.github.io/iTechX/courses?course_code=SI100B) (Introduction to Information Science and Technology)
+Role: Programming Assignments design for CS part and academic integrity checks.
   
 Working Experience
 ======
@@ -48,5 +56,4 @@ Working Experience
 * Jan, 2023: Served as a volunteer in the School Admissions Presentation, went to Nanchang No.5 Middle School to give a lecture, and obtained a volunteer certificate.
 * Participate in RMUC2023 regional competition and national competition (programming and circuit construction of the dart arm).
 * Participated in a project about human-object interactions(HOI) in [ShanghaiTech Visual and Data Intelligence Center](https://vic.shanghaitech.edu.cn/), June, 2023.
-* Sept, 2023: Served as a teaching assistant for the python programming part of the [SI100B](https://i-techx.github.io/iTechX/courses?course_code=SI100B) course.
 * Dec, 2023: Participated in the Fourth Student Congress of ShanghaiTech University as a college representative.
