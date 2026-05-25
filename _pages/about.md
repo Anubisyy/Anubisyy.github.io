@@ -20,7 +20,7 @@ I am an incoming Ph.D. student at [Nanjing University](https://www.nju.edu.cn/en
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2026</div><img src='images/500x300.png' alt="publication thumbnail" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2026</div><img src='images/just-in-time-tokens.png' alt="Just-in-Time Tokens teaser" width="100%" style="aspect-ratio: 16 / 9; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Just-in-Time Tokens: Adaptive Token Pacing for Cognitive-Friendly LLM Streaming](https://dl.acm.org/doi/10.1145/3772363.3798936)
