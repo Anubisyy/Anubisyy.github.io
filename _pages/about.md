@@ -44,7 +44,7 @@ Proceedings of the 31st International Conference on Intelligent User Interfaces 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/im-hoi.png' alt="I'M HOI teaser" width="100%" style="aspect-ratio: 16 / 9; object-fit: cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/im-hoi.png' alt="I'M HOI teaser" width="100%" style="aspect-ratio: 16 / 9; object-fit: contain; background: #fff;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions](https://arxiv.org/abs/2312.08869)
@@ -71,12 +71,12 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
 # Education
 
-- *2026.08 - Expected*: Direct Ph.D. student, Nanjing University. Advisor: Prof. [Ke Xu](https://lukexuke.github.io/).
-- *2022.09 - 2026.06*: B.Eng. in Computer Science, [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
+- *2026.08 - Expected*: Direct Ph.D. student, [Nanjing University](https://www.nju.edu.cn/en/). Advisor: Prof. [Ke Xu](https://lukexuke.github.io/).
+- *2022.09 - 2026.06*: B.Eng. in Computer Science and Technology, [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
 
 # Research Experience
 
-- *2023.06 - Present*: Research intern, [Visual and Data Intelligence Center](https://vic.shanghaitech.edu.cn/), ShanghaiTech University. Advisor: Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/).
+- *2023.06 - Present*: Research intern, [Visual and Data Intelligence Center](https://vdi.sist.shanghaitech.edu.cn/), ShanghaiTech University. Advisor: Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/).
 - *2023*: Participated in a research project on 3D human-object interactions.
 
 # Teaching
