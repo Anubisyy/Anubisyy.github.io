@@ -25,21 +25,17 @@ I am an incoming Ph.D. student at [Nanjing University](https://www.nju.edu.cn/en
 
 [Just-in-Time Tokens: Adaptive Token Pacing for Cognitive-Friendly LLM Streaming](https://dl.acm.org/doi/10.1145/3772363.3798936)
 
-Hailiang Zhu, **Junye Wang**, Laixin Xie, Ruofei Ma, Yingbin Sun, Fangxin Liu, Chengbo Zheng, Quan Li
-
-Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 2026.
+ACM CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA), 2026. \*Co-first author.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/scsimulator.png' alt="SCSimulator teaser" width="100%" style="aspect-ratio: 16 / 9; object-fit: cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/scsimulator.png' alt="SCSimulator teaser" width="100%" style="aspect-ratio: 16 / 9; object-fit: contain; background: #fff;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SCSimulator: An Exploratory Visual Analytics Framework for Partner Selection in Supply Chains through LLM-driven Multi-Agent Simulation](https://arxiv.org/abs/2601.14566)
 
-Shenghan Gao, **Junye Wang**, Junjie Xiong, Yun Jiang, Yun Fang, Qifan Hu, Baolong Liu, Quan Li
-
-Proceedings of the 31st International Conference on Intelligent User Interfaces (IUI '26), 2026.
+ACM Conference on Intelligent User Interfaces (IUI), 2026.
 
 </div>
 </div>
@@ -49,8 +45,6 @@ Proceedings of the 31st International Conference on Intelligent User Interfaces 
 
 [I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions](https://arxiv.org/abs/2312.08869)
 
-Chengfeng Zhao, Juze Zhang, Jiashen Du, Ziwei Shan, **Junye Wang**, Jingyi Yu, Jingya Wang, Lan Xu
-
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
 </div>
@@ -58,6 +52,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
 # Honors and Awards
 
+- *2026*: ShanghaiTech University Outstanding Graduate.
 - *2025.12*: 4th Place Nationally, Track Three: Data Intelligence Decision Science, TGAC Tencent Game Algorithm Competition.
 - *2025.09*: Third Prize, AMD Enterprise Track, the 20th China Graduate Electronics Design Contest; Third Prize, Shanghai Division.
 - *2024 - 2025*: ShanghaiTech University "3+1" International Exchange Scholarship.
