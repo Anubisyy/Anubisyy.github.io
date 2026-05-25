@@ -14,9 +14,9 @@ I am an incoming Ph.D. student at [Nanjing University](https://www.nju.edu.cn/en
 
 # News
 
-- *2026.04*: &nbsp;🎉 Our work on adaptive token pacing for LLM streaming was published at CHI EA 2026.
-- *2026.03*: &nbsp;🎉 Our work on LLM-driven multi-agent simulation for supply-chain partner selection was published at IUI 2026.
-- *2024.07*: &nbsp;🎉 Our paper on inertia-aware monocular capture of 3D human-object interactions was published at CVPR 2024.
+- *2026.04*: &nbsp;🎉🎉 Our work on adaptive token pacing for LLM streaming was published at CHI EA 2026.
+- *2026.03*: &nbsp;🎉🎉 Our work on LLM-driven multi-agent simulation for supply-chain partner selection was published at IUI 2026.
+- *2024.07*: &nbsp;🎉🎉 Our paper on inertia-aware monocular capture of 3D human-object interactions was published at CVPR 2024.
 
 # Publications
 
