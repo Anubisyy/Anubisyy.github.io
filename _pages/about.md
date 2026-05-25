@@ -70,22 +70,22 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
 # Education
 
-- *2026.08 - Expected*: Direct Ph.D. student, [Nanjing University](https://www.nju.edu.cn/en/). Advisor: Prof. [Ke Xu](https://lukexuke.github.io/).
-- *2022.09 - 2026.06*: B.Eng. in Computer Science and Technology, [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
+- *2026.08 - Expected*: Ph.D. student, Nanjing University. Advisor: Prof. [Ke Xu](https://lukexuke.github.io/).
+- *2022.09 - 2026.06*: B.Eng. in Computer Science and Technology, School of Information Science and Technology (SIST), ShanghaiTech University.
 
 # Research Experience
 
 - *2023.06 - Present*: Research intern, [Visual and Data Intelligence Center](https://vdi.sist.shanghaitech.edu.cn/), ShanghaiTech University. Advisor: Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/).
-- *2023*: Participated in a research project on 3D human-object interactions.
+- *2023*: Research intern, [Visual and Data Intelligence Center](https://vdi.sist.shanghaitech.edu.cn/), ShanghaiTech University. Advisor: Prof. [Lan Xu](http://xu-lan.com/).
 
-# Teaching
+# Teaching Assistants
 
-- *Mar. 2026 - Jun. 2026*: Teaching Assistant, [SI100B: Introduction to Information Science and Technology](https://i-techx.github.io/iTechX/courses?course_code=SI100B), ShanghaiTech University.
-- *Feb. 2025 - Jun. 2025*: Teaching Assistant, SI140A: Probability and Mathematical Statistics for Information Science, ShanghaiTech University.
-- *Sep. 2023 - Jan. 2024*: Teaching Assistant, [SI100B: Introduction to Information Science and Technology](https://i-techx.github.io/iTechX/courses?course_code=SI100B), ShanghaiTech University.
+- *Mar. 2026 - Jun. 2026*: SI100B: Introduction to Information Science and Technology, ShanghaiTech University.
+- *Feb. 2025 - Jun. 2025*: SI140A: Probability and Mathematical Statistics for Information Science, ShanghaiTech University.
+- *Sep. 2023 - Jan. 2024*: SI100B: Introduction to Information Science and Technology, ShanghaiTech University.
 
 # Service and Activities
 
 - Secretary of the Third Youth League Branch, Dadao College, ShanghaiTech University, 2022 undergraduate cohort.
-- Member of the tenor section, Chenyin Choir, ShanghaiTech University.
+- Former member of the tenor section, Chenyin Choir, ShanghaiTech University.
 - College representative, the 4th Student Congress of ShanghaiTech University.
