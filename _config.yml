@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junye Wang"
-description              : "Ph.D. student-to-be at Nanjing University, interested in visualization, computer vision, data analytics, and human-computer interaction."
+description              : "Incoming Ph.D. student at Nanjing University, interested in text data augmentation and evaluation, LLM agents, data visualization, and human-computer interaction."
 repository               : "Anubisyy/Anubisyy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Junye Wang"
-  avatar           : "images/profile.png"
+  avatar           : "/images/profile.png"
   bio              : "ShanghaiTech University"
   location         : "Shanghai, China"
   employer         :
