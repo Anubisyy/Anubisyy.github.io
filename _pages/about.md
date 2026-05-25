@@ -32,7 +32,7 @@ ACM CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/scsimulator.png' alt="SCSimulator teaser" width="100%" style="aspect-ratio: 16 / 9; object-fit: contain; background: #fff;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM IUI 2026</div><img src='images/scsimulator.png' alt="SCSimulator teaser" width="100%" style="aspect-ratio: 16 / 9; object-fit: contain; background: #fff;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SCSimulator: An Exploratory Visual Analytics Framework for Partner Selection in Supply Chains through LLM-driven Multi-Agent Simulation](https://arxiv.org/abs/2601.14566)
