@@ -71,6 +71,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 # Education
 
 - *2026.08 - Expected*: Ph.D. student, Nanjing University. Advisor: Prof. [Ke Xu](https://lukexuke.github.io/).
+- *2024.08 - 2025.01*: GLOBE COE Exchange Program in Computer Science, University of California, Berkeley.
 - *2022.09 - 2026.06*: B.Eng. in Computer Science and Technology, School of Information Science and Technology (SIST), ShanghaiTech University.
 
 # Research Experience
