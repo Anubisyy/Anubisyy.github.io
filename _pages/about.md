@@ -32,10 +32,10 @@ Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Syst
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/500x300.png' alt="publication thumbnail" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/scsimulator.png' alt="SCSimulator teaser" width="100%" style="aspect-ratio: 16 / 9; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SCSimulator: An Exploratory Visual Analytics Framework for Partner Selection in Supply Chains through LLM-driven Multi-Agent Simulation](https://dl.acm.org/doi/10.1145/3742413.3789061)
+[SCSimulator: An Exploratory Visual Analytics Framework for Partner Selection in Supply Chains through LLM-driven Multi-Agent Simulation](https://arxiv.org/abs/2601.14566)
 
 Shenghan Gao, **Junye Wang**, Junjie Xiong, Yun Jiang, Yun Fang, Qifan Hu, Baolong Liu, Quan Li
 
@@ -44,10 +44,10 @@ Proceedings of the 31st International Conference on Intelligent User Interfaces 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="publication thumbnail" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/im-hoi.png' alt="I'M HOI teaser" width="100%" style="aspect-ratio: 16 / 9; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_IM_HOI_Inertia-aware_Monocular_Capture_of_3D_Human-Object_Interactions_CVPR_2024_paper.html)
+[I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions](https://arxiv.org/abs/2312.08869)
 
 Chengfeng Zhao, Juze Zhang, Jiashen Du, Ziwei Shan, **Junye Wang**, Jingyi Yu, Jingya Wang, Lan Xu
 
