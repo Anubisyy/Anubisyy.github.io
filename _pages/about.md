@@ -3,56 +3,90 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an incoming Ph.D. student at [Nanjing University](https://www.nju.edu.cn/en/), advised by Prof. [Ke Xu](https://lukexuke.github.io/). I will start in August 2026. My research interests include text data augmentation and evaluation, LLM agents, data visualization, and human-computer interaction.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# News
 
+- *2026.04*: &nbsp;🎉 Our work on adaptive token pacing for LLM streaming was published at CHI EA 2026.
+- *2026.03*: &nbsp;🎉 Our work on LLM-driven multi-agent simulation for supply-chain partner selection was published at IUI 2026.
+- *2024.07*: &nbsp;🎉 Our paper on inertia-aware monocular capture of 3D human-object interactions was published at CVPR 2024.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Publications
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2026</div><img src='images/500x300.png' alt="publication thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Just-in-Time Tokens: Adaptive Token Pacing for Cognitive-Friendly LLM Streaming](https://dl.acm.org/doi/10.1145/3772363.3798936)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Hailiang Zhu, **Junye Wang**, Laixin Xie, Ruofei Ma, Yingbin Sun, Fangxin Liu, Chengbo Zheng, Quan Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 2026.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2026</div><img src='images/500x300.png' alt="publication thumbnail" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[SCSimulator: An Exploratory Visual Analytics Framework for Partner Selection in Supply Chains through LLM-driven Multi-Agent Simulation](https://dl.acm.org/doi/10.1145/3742413.3789061)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Shenghan Gao, **Junye Wang**, Junjie Xiong, Yun Jiang, Yun Fang, Qifan Hu, Baolong Liu, Quan Li
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+Proceedings of the 31st International Conference on Intelligent User Interfaces (IUI '26), 2026.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="publication thumbnail" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_IM_HOI_Inertia-aware_Monocular_Capture_of_3D_Human-Object_Interactions_CVPR_2024_paper.html)
+
+Chengfeng Zhao, Juze Zhang, Jiashen Du, Ziwei Shan, **Junye Wang**, Jingyi Yu, Jingya Wang, Lan Xu
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+
+</div>
+</div>
+
+# Honors and Awards
+
+- *2025.12*: 4th Place Nationally, Track Three: Data Intelligence Decision Science, TGAC Tencent Game Algorithm Competition.
+- *2025.09*: Third Prize, AMD Enterprise Track, the 20th China Graduate Electronics Design Contest; Third Prize, Shanghai Division.
+- *2024 - 2025*: ShanghaiTech University "3+1" International Exchange Scholarship.
+- *2024 - 2025*: ShanghaiTech University Outstanding Student, top 3%-7% in undergraduate comprehensive evaluation.
+- *2023 - 2024*: ShanghaiTech University Outstanding Student, top 3%-7% in undergraduate comprehensive evaluation.
+- *2022 - 2023*: ShanghaiTech University Outstanding Student, top 3%-7% in undergraduate comprehensive evaluation.
+- *2022 - 2023*: ShanghaiTech University Outstanding Student Cadre, Secretary of the Third Youth League Branch, Dadao College.
+- *2022 - 2023*: ShanghaiTech University Outstanding Youth League Branch.
+- *2024.11*: Third Prize, Shanghai Division, 2024 "Higher Education Press Cup" Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM).
+- *2023.08*: National Third Prize, RoboMaster 2023 University Championship (RMUC 2023), team award.
+
+# Education
+
+- *2026.08 - Expected*: Direct Ph.D. student, Nanjing University. Advisor: Prof. [Ke Xu](https://lukexuke.github.io/).
+- *2022.09 - 2026.06*: B.Eng. in Computer Science, [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
+
+# Research Experience
+
+- *2023.06 - Present*: Research intern, [Visual and Data Intelligence Center](https://vic.shanghaitech.edu.cn/), ShanghaiTech University. Advisor: Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/).
+- *2023*: Participated in a research project on 3D human-object interactions.
+
+# Teaching
+
+- *Mar. 2026 - Jun. 2026*: Teaching Assistant, [SI100B: Introduction to Information Science and Technology](https://i-techx.github.io/iTechX/courses?course_code=SI100B), ShanghaiTech University.
+- *Feb. 2025 - Jun. 2025*: Teaching Assistant, SI140A: Probability and Mathematical Statistics for Information Science, ShanghaiTech University.
+- *Sep. 2023 - Jan. 2024*: Teaching Assistant, [SI100B: Introduction to Information Science and Technology](https://i-techx.github.io/iTechX/courses?course_code=SI100B), ShanghaiTech University.
+
+# Service and Activities
+
+- Secretary of the Third Youth League Branch, Dadao College, ShanghaiTech University, 2022 undergraduate cohort.
+- Member of the tenor section, Chenyin Choir, ShanghaiTech University.
+- College representative, the 4th Student Congress of ShanghaiTech University.
