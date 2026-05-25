@@ -25,7 +25,7 @@ I am an incoming Ph.D. student at [Nanjing University](https://www.nju.edu.cn/en
 
 [Just-in-Time Tokens: Adaptive Token Pacing for Cognitive-Friendly LLM Streaming](https://dl.acm.org/doi/10.1145/3772363.3798936)
 
-Hailiang Zhu*, **Junye Wang***, Laixin Xie, Ruofei Ma, Yingbin Sun, Fangxin Liu, Chengbo Zheng, Quan Li
+Hailiang Zhu\*, **Junye Wang\***, Laixin Xie, Ruofei Ma, Yingbin Sun, Fangxin Liu, Chengbo Zheng, Quan Li
 
 ACM CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA), 2026.
 
@@ -51,7 +51,7 @@ ACM Conference on Intelligent User Interfaces (IUI), 2026.
 
 Chengfeng Zhao, Juze Zhang, Jiashen Du, Ziwei Shan, **Junye Wang**, Jingyi Yu, Jingya Wang, Lan Xu
 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
 </div>
 </div>
