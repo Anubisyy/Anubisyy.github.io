@@ -25,7 +25,7 @@ I am an incoming Ph.D. student at [Nanjing University](https://www.nju.edu.cn/en
 
 [Just-in-Time Tokens: Adaptive Token Pacing for Cognitive-Friendly LLM Streaming](https://dl.acm.org/doi/10.1145/3772363.3798936)
 
-Hailiang Zhu, **Junye Wang***, Laixin Xie, Ruofei Ma, Yingbin Sun, Fangxin Liu, Chengbo Zheng, Quan Li
+Hailiang Zhu*, **Junye Wang***, Laixin Xie, Ruofei Ma, Yingbin Sun, Fangxin Liu, Chengbo Zheng, Quan Li
 
 ACM CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA), 2026.
 
@@ -66,8 +66,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 - *2023 - 2024*: ShanghaiTech University Outstanding Student, top 3%-7% in undergraduate comprehensive evaluation.
 - *2022 - 2023*: ShanghaiTech University Outstanding Student, top 3%-7% in undergraduate comprehensive evaluation.
 - *2022 - 2023*: ShanghaiTech University Outstanding Student Cadre, Secretary of the Third Youth League Branch, Dadao College.
-- *2022 - 2023*: ShanghaiTech University Outstanding Youth League Branch.
-- *2024.11*: Third Prize, Shanghai Division, 2024 "Higher Education Press Cup" Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM).
 - *2023.08*: National Third Prize, RoboMaster 2023 University Championship (RMUC 2023), team award.
 
 # Education
