@@ -25,7 +25,9 @@ I am an incoming Ph.D. student at [Nanjing University](https://www.nju.edu.cn/en
 
 [Just-in-Time Tokens: Adaptive Token Pacing for Cognitive-Friendly LLM Streaming](https://dl.acm.org/doi/10.1145/3772363.3798936)
 
-ACM CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA), 2026. \*Co-first author.
+Hailiang Zhu, **Junye Wang***, Laixin Xie, Ruofei Ma, Yingbin Sun, Fangxin Liu, Chengbo Zheng, Quan Li
+
+ACM CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA), 2026.
 
 </div>
 </div>
@@ -34,6 +36,8 @@ ACM CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI
 <div class='paper-box-text' markdown="1">
 
 [SCSimulator: An Exploratory Visual Analytics Framework for Partner Selection in Supply Chains through LLM-driven Multi-Agent Simulation](https://arxiv.org/abs/2601.14566)
+
+Shenghan Gao, **Junye Wang**, Junjie Xiong, Yun Jiang, Yun Fang, Qifan Hu, Baolong Liu, Quan Li
 
 ACM Conference on Intelligent User Interfaces (IUI), 2026.
 
@@ -44,6 +48,8 @@ ACM Conference on Intelligent User Interfaces (IUI), 2026.
 <div class='paper-box-text' markdown="1">
 
 [I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions](https://arxiv.org/abs/2312.08869)
+
+Chengfeng Zhao, Juze Zhang, Jiashen Du, Ziwei Shan, **Junye Wang**, Jingyi Yu, Jingya Wang, Lan Xu
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
