@@ -76,8 +76,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
 # Research Experience
 
-- *2023.06 - Present*: Research intern, [Visual and Data Intelligence Center](https://vdi.sist.shanghaitech.edu.cn/), ShanghaiTech University. Advisor: Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/).
-- *2023*: Research intern, [Visual and Data Intelligence Center](https://vdi.sist.shanghaitech.edu.cn/), ShanghaiTech University. Advisor: Prof. [Lan Xu](http://xu-lan.com/).
+- *2024.05 - Present*: Research intern, [Visual and Data Intelligence Center](https://vdi.sist.shanghaitech.edu.cn/), ShanghaiTech University. Advisor: Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/).
+- *2023.07 - 2023.12*: Research intern, [Visual and Data Intelligence Center](https://vdi.sist.shanghaitech.edu.cn/), ShanghaiTech University. Advisor: Prof. [Lan Xu](http://xu-lan.com/).
 
 # Teaching Assistants
 
